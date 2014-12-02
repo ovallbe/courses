@@ -40,9 +40,9 @@ If you'd like to keep up with the instructors
 I'm (add)bcaffo on twitter, Roger is (add)rdpeng and Jeff is (add)jtleek. The Department of Biostat here is (add)jhubiostat.
 
 Since today is the first day running all 9 courses simultaneously, we'll be live tweeting at (hash)jhudatascience.
+
+
 =====
-
-
 
 ### Developing Data Products: Week 1
 Welcome to Week 1 of Developing Data Products. This week we'll cover Shiny, Rcharts and googleVis. Make sure to watch all of the videos. When you feel that you are ready, you can demonstrate your knowledge by taking Quiz 1, which is due by 11:30 PM UTC on Sunday.
