@@ -1,25 +1,27 @@
 ##Statistical Inference: On rCharts
 It was pointed out in the forums that rCharts may need to be installed from devtools if you have a recent version of R. Here's the note from Ramnath
 
-[https://github.com/ramnathv/rMaps/issues/54](https://github.com/ramnathv/rMaps/issues/54)
+https://github.com/ramnathv/rMaps/issues/54
 
 The devtools package on cran is a must to install. Its most useful function is the ability to install packages from github. Note, if you're on windows, I would suggest installing rtools. This allows you to build R packages (and R itself). 
+http://cran.r-project.org/bin/windows/Rtools/
 
-[http://cran.r-project.org/bin/windows/Rtools/](http://cran.r-project.org/bin/windows/Rtools/)
 ======
 
-##Brian
-##Tue 2 Dec 2014 2:22 PM GMT
-Introduction and welcome
+##Introduction and welcome
 Hi class,
 
 A couple of first week housekeeping items. First, make sure that you've had R Programming and the Data Scientist's Toolbox. Reproducible Research would be helpful, but is not mandatory. We're running all classes monthly now, so it's worthwhile considering delaying this class until you've had those. At a minimum you must know: very basic git, basic R and very basic knitr.
 
-An important aspect of this class is to peruse the materials in the github repository. All of the most up to date material can be found here
+An important aspect of this class is to peruse the materials in the github repository. 
+All of the most up to date material can be found here
 
 https://github.com/bcaffo/courses/tree/master/09_DevelopingDataProducts
 
-You should clone this repository as your first step in this class and make sure to fetch updates periodically. (Please send pull requests too!) It is one of the most essential components of the Specialization that you start to use Git frequently. We're practicing what we preach as well by using the tools in the series to create the series, especially git.
+You should clone this repository as your first step in this class and make sure to fetch updates periodically.
+(Please send pull requests too!) It is one of the most essential components of the Specialization that you start to use 
+Git frequently.
+We're practicing what we preach as well by using the tools in the series to create the series, especially git.
 
 You can clone the whole repo with (http)
 
@@ -29,13 +31,19 @@ or (ssh)
 
 git clone git@github.com:bcaffo/courses.git
 
-The lectures are in the index.Rmd lecture files. In this class, we'll cover how to create these sorts of slides.You will see all of the R code to recreate the lectures. Going through the R code is the best way to familiarize yourself with the lecture materials.
+The lectures are in the index.Rmd lecture files. In this class, 
+we'll cover how to create these sorts of slides.You will see all of the 
+R code to recreate the lectures. Going through the R code is the best way to
+familiarize yourself with the lecture materials.
 
-If you'd like to keep up with the instructors I'm @bcaffo on twitter, Roger is @rdpeng and Jeff is @jtleek. The Department of Biostat here is @jhubiostat.
+If you'd like to keep up with the instructors 
+I'm (add)bcaffo on twitter, Roger is (add)rdpeng and Jeff is (add)jtleek. The Department of Biostat here is (add)jhubiostat.
 
-Since today is the first day running all 9 courses simultaneously, we'll be live tweeting at #jhudatascience.
-======
-### Mon 1 Dec 2014 4:05 PM GMT
+Since today is the first day running all 9 courses simultaneously, we'll be live tweeting at (hash)jhudatascience.
+=====
+
+
+
 ### Developing Data Products: Week 1
 Welcome to Week 1 of Developing Data Products. This week we'll cover Shiny, Rcharts and googleVis. Make sure to watch all of the videos. When you feel that you are ready, you can demonstrate your knowledge by taking Quiz 1, which is due by 11:30 PM UTC on Sunday.
 
